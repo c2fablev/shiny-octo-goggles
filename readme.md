@@ -6,6 +6,6 @@
 
 - Git
 
-## Al-tech
+## Kép
 
 ![alt text](krumplikirály.jpg)
