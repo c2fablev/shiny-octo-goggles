@@ -5,6 +5,7 @@
 ### Technológiák
 
 - Git
+- Branch stratégia
 
 ## Kép
 
